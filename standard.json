@@ -1,0 +1,44 @@
+[
+  {
+    "name": "Albus Dumbledore",
+    "wand": {
+      "power": 19,
+      "useable": true
+    }
+  },
+  {
+    "name": "Gilderoy Lockart",
+    "wand": {
+      "power": 10,
+      "useable": true
+    }
+  },
+  {
+    "name": "George Weasley",
+    "wand": {
+      "power": 10,
+      "useable": true
+    }
+  },
+  {
+    "name": "Fred Weasley",
+    "wand": {
+      "power": 20,
+      "useable": true
+    }
+  },
+  {
+    "name": "Harry Potter",
+    "wand": {
+      "power": 15,
+      "useable": true
+    }
+  },
+  {
+    "name": "Drago Malefoy",
+    "wand": {
+      "power": 16,
+      "useable": true
+    }
+  }
+]
